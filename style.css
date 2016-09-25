@@ -1,0 +1,11 @@
+body {
+  width: 100%;
+}
+
+#square {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  border-radius: 10px;
+  margin: 5% auto;
+}
